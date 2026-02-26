@@ -6,14 +6,14 @@ To check if Python is installed:
 python --version
 
 Running the Program:
-Step 1: Download or Extract the ZIP file
+Step 1: Download or Extract the ZIP file. 
 Extract the assignment folder to your computer.
 
-Step 2: Open Terminal / Command Prompt
+Step 2: Open Terminal / Command Prompt. 
 Navigate to the folder where your Python file is located:
 cd folder_name
 
-Step 3: Run the Program
+Step 3: Run the Program.
 python filename.py
 
 Example:
